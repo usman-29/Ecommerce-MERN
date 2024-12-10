@@ -19,8 +19,7 @@ Welcome to the E-Commerce Website! This project is built with **React.js** and s
 | Home Page | Collection Page | Cart Page |
 |-----------|--------------|-----------|
 | ![Home Screenshot](<img width="959" alt="image" src="https://github.com/user-attachments/assets/8a6d4b32-3739-4a03-9953-a47165551890">
-) | ![Product Screenshot](<img width="959" alt="image" src="https://github.com/user-attachments/assets/fd3c9426-7a0b-44ba-98c3-6f01f236a702">
-) | ![Cart Screenshot](<img width="959" alt="image" src="https://github.com/user-attachments/assets/f7c2d614-4c7c-41ab-a1ec-bc34d236aa74">
-) |
+| ![Product Screenshot](<img width="959" alt="image" src="https://github.com/user-attachments/assets/fd3c9426-7a0b-44ba-98c3-6f01f236a702">
+| ![Cart Screenshot](<img width="959" alt="image" src="https://github.com/user-attachments/assets/f7c2d614-4c7c-41ab-a1ec-bc34d236aa74">
 
 
